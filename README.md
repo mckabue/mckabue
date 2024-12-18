@@ -1,3 +1,5 @@
+![mckabue's stats](https://github-readme-stats.vercel.app/api?username=mckabue&theme=default&show_icons=true&hide_border=true&count_private=true&&rank_icon=github) ![mckabue's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mckabue&theme=default&show_icons=true&hide_border=true&layout=compact&&langs_count=8)
+
 # Kabui Charles
 
 👨‍💻 Full-stack Software Engineer | Data Scientist | ML/AI Enthusiast
