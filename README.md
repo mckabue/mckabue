@@ -2,13 +2,13 @@
 
 # Kabui Charles
 
-👨‍💻 Full-stack Software Engineer | Data Scientist | ML/AI Enthusiast
+👨‍💻 Code - Data - People | Software Engineering | Data Science | ML/AI
 
 [Portfolio](https://mckabue.github.io) | [LinkedIn](https://www.linkedin.com/in/mckabue/) | [Email](mailto:mckabue@gmail.com)
 
 ## About Me
 
-Versatile full-stack software engineer with expertise in enterprise-level solutions, currently contributing to Microsoft. Founder of [Oark Library](https://oarklibrary.com/), a thriving digital educational platform. Passionate about innovation in software development, data science, and machine learning.
+Software engineer with a decade of hands-on experience delivering scalable, secure, and user-centered systems across web, mobile, and cloud platforms. Expertise in android development, front-end engineering, back-end development, and startup leadership.
 
 ## 🚀 Key Projects
 
@@ -34,8 +34,8 @@ Versatile full-stack software engineer with expertise in enterprise-level soluti
 
 ## 🎓 Education
 
-- MSc in Data Science and Analytics, Strathmore University, Kenya
-- BSc in Software Engineering, Kisii University, Kenya
+- MSc in Data Science and Analytics, Strathmore University
+- BSc in Software Engineering, Kisii University
 
 ---
 
