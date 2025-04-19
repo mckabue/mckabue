@@ -4,7 +4,7 @@
 
 👨‍💻 Code - Data - People | Software Engineering | Data Science | ML/AI
 
-[Portfolio](https://mckabue.github.io) | [LinkedIn](https://www.linkedin.com/in/mckabue/) | [Email](mailto:mckabue@gmail.com)
+[Resume](https://mckabue.github.io) | [LinkedIn](https://www.linkedin.com/in/mckabue/) | [Email](mailto:mckabue@gmail.com)
 
 ## About Me
 
