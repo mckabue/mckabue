@@ -12,9 +12,10 @@ Software engineer with a decade of hands-on experience delivering scalable, secu
 
 ## 🚀 Key Projects
 
-- [ToKnow.ai](https://toknow.ai/): Platform for data-driven analysis in AI, data science, and tech
+- [ToKnow.ai](https://toknow.ai/): Platform publish data-driven analysis/research in AI, data science, and tech
+- [react-validate-hook](https://www.npmjs.com/package/react-validate-hook): A lightweight, flexible, and type-safe React form validation hook with zero dependencies
 - [Oark Library](https://oarklibrary.com/): Digital educational platform serving 130,000+ users
-- [Simplex Router](https://github.com/McKabue/simplex-router): Platform-agnostic JavaScript router
+- [simplex-router](https://www.npmjs.com/package/simplex-router): Platform-agnostic JavaScript router
 
 ## 💼 Professional Experience
 
