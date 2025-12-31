@@ -12,6 +12,7 @@ Software engineer with a decade of hands-on experience delivering scalable, secu
 
 ## 🚀 Key Projects
 
+- [Blober.io](https://blober.io/): The easiest way to transfer files between cloud providers
 - [ToKnow.ai](https://toknow.ai/): Platform publish data-driven analysis/research in AI, data science, and tech
 - [react-validate-hook](https://www.npmjs.com/package/react-validate-hook): A lightweight, flexible, and type-safe React form validation hook with zero dependencies
 - [Oark Library](https://oarklibrary.com/): Digital educational platform serving 130,000+ users
