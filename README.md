@@ -12,11 +12,13 @@ Software engineer with a decade of hands-on experience delivering scalable, secu
 
 ## 🚀 Key Projects
 
-- [Blober.io](https://blober.io/): The easiest way to transfer files between cloud providers
-- [ToKnow.ai](https://toknow.ai/): Platform publish data-driven analysis/research in AI, data science, and tech
-- [react-validate-hook](https://www.npmjs.com/package/react-validate-hook): A lightweight, flexible, and type-safe React form validation hook with zero dependencies
-- [Oark Library](https://oarklibrary.com/): Digital educational platform serving 130,000+ users
-- [simplex-router](https://www.npmjs.com/package/simplex-router): Platform-agnostic JavaScript router
+- [Blober.io](https://blober.io/) — The easiest way to transfer files between cloud providers
+- [ToKnow.ai](https://toknow.ai/) — Platform for data-driven analysis/research in AI, data science, and tech
+- [@mckabue/react-validate](https://www.npmjs.com/package/@mckabue/react-validate) — A lightweight, type-safe React form validation hook with zero dependencies
+- [@mckabue/react-use-async](https://www.npmjs.com/package/@mckabue/react-use-async) — A React hook for async operations with loading states, error handling, and data merging
+- [@mckabue/no-same-type-params](https://www.npmjs.com/package/@mckabue/no-same-type-params) — An ESLint rule against consecutive function parameters sharing the same type
+- [Oark Library](https://web.archive.org/web/20240917192838/https://oarklibrary.com/) — Digital educational platform serving 130,000+ users
+- [simplex-router](https://github.com/mckabue/simplex-router) — Platform-agnostic JavaScript router
 
 ## 💼 Professional Experience
 
