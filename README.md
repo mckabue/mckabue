@@ -2,13 +2,13 @@
 
 # Kabui Charles
 
-Founder & Engineer
+Founder & Engineer · Ex-Microsoft
 
 [Resume](https://mckabue.github.io) | [LinkedIn](https://www.linkedin.com/in/mckabue/) | [Email](mailto:mckabue@gmail.com)
 
 ## About Me
 
-Currently building AI-powered, agentic experiences in M365 Copilot at Microsoft. Before that I founded Oark Library. I grew it from nothing to 130,000 users with almost no marketing budget, then wound it down on my own terms. I hold an MSc in Data Science from Strathmore, write at [ToKnow.ai](https://toknow.ai/), and building [Blober.io](https://blober.io/).
+I build software and the companies around it. I now work full-time on Oark, writing at ToKnow.ai and building Blober.io. Before that, I spent five years at Microsoft building AI-powered, agentic experiences in M365 Copilot. Earlier I founded Oark Library and grew it to 130,000 users with almost no marketing budget before archiving it in 2024. I hold an MSc in Data Science from Strathmore and write at [ToKnow.ai](https://toknow.ai/).
 
 I build things I think should exist.
 
@@ -23,11 +23,11 @@ I build things I think should exist.
 
 ## 💼 Experience
 
-- **Software Engineer** at Microsoft (Apr 2021 – Present): M365 Copilot, Researcher, Copilot Chat
-- **Founder** at Oark (2017 – Present): ToKnow.ai, Blober.io
-- **Android Engineer** at Hava Cab (Oct 2020 – Apr 2021)
-- **Full-stack Engineer** at Maramoja Transport (May 2018 – Nov 2020)
-- **Full-stack Engineer** at Pageone (Mar 2016 – Apr 2018)
+- **Founder** at Oark (2026 - Present): ToKnow.ai, Blober.io
+- **Software Engineer** at Microsoft (Apr 2021 - Jul 2026): M365 Copilot, Researcher, Copilot Chat
+- **Android Engineer** at Hava Cab (Oct 2020 - Apr 2021)
+- **Full-stack Engineer** at Maramoja Transport (May 2018 - Nov 2020)
+- **Full-stack Engineer** at Pageone (Mar 2016 - Apr 2018)
 
 ## 🛠 Skills
 
