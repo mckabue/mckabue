@@ -23,7 +23,7 @@ I build things I think should exist.
 
 ## 💼 Experience
 
-- **Founder** at Oark (2026 - Present): ToKnow.ai, Blober.io
+- **Founder** at Oark (Jul 2026 - Present): ToKnow.ai, Blober.io
 - **Software Engineer** at Microsoft (Apr 2021 - Jul 2026): M365 Copilot, Researcher, Copilot Chat
 - **Android Engineer** at Hava Cab (Oct 2020 - Apr 2021)
 - **Full-stack Engineer** at Maramoja Transport (May 2018 - Nov 2020)
