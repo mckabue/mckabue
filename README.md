@@ -8,9 +8,7 @@ Founder & Engineer | Ex-Microsoft
 
 ## About Me
 
-I build software and the companies around it. I now run Oark full-time: we build iTax Help and Blober.io, publish ToKnow.ai, and help other teams build, ship and run software, including SEO and AI deployment. Before that, I spent five years at Microsoft building AI-powered, agentic experiences in M365 Copilot. Earlier I founded Oark Library and grew it to 130,000 users with almost no marketing budget before archiving it in 2024. I hold an MSc in Data Science from Strathmore.
-
-I build things I think should exist.
+I build things I think should exist. Built [iTax Help](https://itax.ke/) and [Blober.io](https://blober.io/), publish [ToKnow.ai](https://toknow.ai/), and help other teams build, ship and run software, including SEO and AI deployment. Before that, I spent five years at Microsoft building AI-powered, agentic experiences in M365 Copilot. Earlier I founded Oark Library and grew it to 130,000 users with almost no marketing budget before archiving it in 2024. I hold an MSc in Data Science from Strathmore.
 
 ## Projects
 
